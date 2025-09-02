@@ -1,0 +1,8 @@
+**/*.DS_Store
+**/*.pyc
+**/*.log
+--version
+.python-version
+*/__pycache__/*
+*/logs/*
+*/.ipynb_checkpoints/*
